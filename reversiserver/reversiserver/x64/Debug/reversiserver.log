@@ -1,0 +1,7 @@
+﻿  game.c
+C:\Users\sc051\OneDrive\바탕 화면\projects\reversiserver\reversiserver\game.c(307,7): warning C4013: 'kbhit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\sc051\OneDrive\바탕 화면\projects\reversiserver\reversiserver\game.c(309,17): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\sc051\OneDrive\바탕 화면\projects\reversiserver\reversiserver\game.c(347,2): warning C4013: 'first_connect'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\sc051\OneDrive\바탕 화면\projects\reversiserver\reversiserver\game.c(377,6): warning C4013: 'out_gamedata'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\sc051\OneDrive\바탕 화면\projects\reversiserver\reversiserver\game.c(386,4): warning C4013: 'get_gamedata'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  reversiserver.vcxproj -> C:\Users\sc051\OneDrive\바탕 화면\projects\reversiserver\x64\Debug\reversiserver.exe
